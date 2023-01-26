@@ -1,0 +1,12 @@
+31f080c67bdce1b209bf6f53bfe824a2 *DESCRIPTION
+963bc0d16c31f023a9309167b6054017 *NAMESPACE
+25e35b8a5f7f8f0902f94ac6f3c5758f *NEWS.md
+f802af54c937be832844c7ebc604f864 *R/findPackage.R
+35853ccedf1707326629f593d3a1418b *build/vignette.rds
+0b347bbec2c784f858e995a2137da00e *inst/doc/Find_CRAN_package_by_topic.R
+09c8f7e901d98b8595fe694284e3b223 *inst/doc/Find_CRAN_package_by_topic.Rmd
+327c61dafc8e578778294b1fbe0a8d7f *inst/doc/Find_CRAN_package_by_topic.html
+32f8f36418551df6d7945ce7d5b7b604 *man/findPackage.Rd
+72e4c47b901ad6c47105be418136f55c *tests/testthat.R
+f28f86c2a06adbaf1b5494de6ac61dfb *tests/testthat/test-findPackage.R
+09c8f7e901d98b8595fe694284e3b223 *vignettes/Find_CRAN_package_by_topic.Rmd

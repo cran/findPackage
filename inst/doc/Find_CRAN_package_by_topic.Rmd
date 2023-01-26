@@ -1,0 +1,19 @@
+---
+title: "Find_CRAN_package_by_topic"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Find_CRAN_package_by_topic}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(findPackage)
+```
